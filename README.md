@@ -23,9 +23,9 @@ This portfolio is constantly updated with new projects and improvements to exist
 
 #### Technologies
 
--HTML5
--CSS3
--JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 [Back To The Top](#Portfolio)
 
