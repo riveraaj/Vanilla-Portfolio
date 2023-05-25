@@ -32,4 +32,4 @@ This portfolio is constantly updated with new projects and improvements to exist
 ## Author Info
 
 - Linkedin - [jriveraa](https://www.linkedin.com/in/jriveraaa/)
-- Website - [Jonathan R.V](https://jamesqquick.com)
+- Website - [Jonathan R.V](https://riveraaj.github.io/Portfolio/)
